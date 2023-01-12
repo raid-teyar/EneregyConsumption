@@ -5,4 +5,4 @@ data/
 out/
 my_dir/
 variables/
-*.pb
+*.h5
